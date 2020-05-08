@@ -6,7 +6,7 @@ const Tweener = imports.ui.tweener;
 const Me = imports.misc.extensionUtils.getCurrentExtension();
 // const prefs = Me.imports.prefs
 
-const API_ADDRESS = 'http://api.fixer.io/';
+const API_ADDRESS = 'https://data.fixer.io/';
 const LATEST_ENDPOINT = 'latest';
 const BASE_QUERY = 'base=';
 const SYMBOLS_QUERY = 'symbols=';
